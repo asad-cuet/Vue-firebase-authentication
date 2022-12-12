@@ -1,3 +1,7 @@
+# Live Url
+
+https://asad-vue-firebase-auth.web.app/ 
+
 # muso-ninjas
 
 ## Project setup

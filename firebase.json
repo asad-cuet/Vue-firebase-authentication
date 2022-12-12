@@ -4,6 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "site": "asad-vue-firebase-auth",
     "public": "dist",
     "ignore": [
       "firebase.json",
